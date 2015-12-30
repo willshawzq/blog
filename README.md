@@ -9,3 +9,4 @@
 3. [PostCss学习笔记](https://github.com/willshawzq/blog/issues/3 "PostCss学习笔记")
 4. [圣诞言情](https://github.com/willshawzq/blog/issues/4 "圣诞言情")
 5. [gulp开发笔记](https://github.com/willshawzq/blog/issues/5 "gulp开发笔记")
+6. [react踩过的坑](https://github.com/willshawzq/blog/issues/6 "react踩过的坑")
