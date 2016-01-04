@@ -10,4 +10,5 @@
 4. [圣诞言情](https://github.com/willshawzq/blog/issues/4 "圣诞言情")
 5. [gulp开发笔记](https://github.com/willshawzq/blog/issues/5 "gulp开发笔记")
 6. [react踩过的坑](https://github.com/willshawzq/blog/issues/6 "react踩过的坑")
-7. [vw,vh,vmin,vmax](https://github.com/willshawzq/blog/issues/6 "vw,vh,vmin,vmax")
+7. [vw,vh,vmin,vmax](https://github.com/willshawzq/blog/issues/7 "vw,vh,vmin,vmax")
+8. [SVG基础](https://github.com/willshawzq/blog/issues/8 "SVG基础")
