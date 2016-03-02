@@ -14,3 +14,4 @@
 8. [SVG基础](https://github.com/willshawzq/blog/issues/8 "SVG基础")
 9. [SVG描边动画](https://github.com/willshawzq/blog/issues/9 "SVG描边动画")
 10. [babel-cli编译es6&react](https://github.com/willshawzq/blog/issues/10 "babel-cli编译es6&react")
+11. [Immutable在React中的使用](https://github.com/willshawzq/blog/issues/11 "Immutable在React中的使用")
