@@ -16,3 +16,4 @@
 10. [babel-cli编译es6&react](https://github.com/willshawzq/blog/issues/10 "babel-cli编译es6&react")
 11. [Immutable在React中的使用](https://github.com/willshawzq/blog/issues/11 "Immutable在React中的使用")
 12. [响应双击事件时，规避单击事件](https://github.com/willshawzq/blog/issues/12 "响应双击事件时，规避单击事件")
+13. [escape、encodeURI、encodeURIComponent区别](https://github.com/willshawzq/blog/issues/13 "escape、encodeURI、encodeURIComponent区别")
